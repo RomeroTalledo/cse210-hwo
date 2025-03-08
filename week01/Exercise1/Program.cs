@@ -4,6 +4,13 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello World! This is the Exercise1 Project.");
+        // Asking for the name
+        Console.Write("What is your first name? "); 
+        string name = Console.ReadLine();
+        // Asking for the last name
+        Console.Write("What is your last name? "); 
+        string lname = Console.ReadLine();
+        // Concatenating
+        Console.WriteLine($"Your name is {lname}, {name} {lname}");
     }
 }
