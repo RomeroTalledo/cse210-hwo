@@ -1,0 +1,4 @@
+0
+SimpleGoal|leer las escrituras|leer|100|False
+EternalGoal|Casarme|casarme|200
+ChecklistGoal|templo|templo|1000|4|5|0
