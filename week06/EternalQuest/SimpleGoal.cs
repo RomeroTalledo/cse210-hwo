@@ -33,7 +33,7 @@ public class SimpleGoal : Goal
 
     public override int GetPoints()
     {
-        return _points; // Asegúrate de que _points exista en la clase.
+        return _points; 
     }
 
 }
